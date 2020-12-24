@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Cr4zi's github stats](https://github-readme-stats.vercel.app/api?username=Cr4zi&show_icons=true&theme=dark)
-[![Cr4zi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cr4zi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr4zi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
