@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on A.I that can detect animels
-- 🌱 I’m currently learning neural network
+- 🌱 I’m currently learning neural network, algorithms & data structures
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with neural network
 - 💬 Ask me about Python
