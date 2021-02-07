@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with neural network
 - 💬 Ask me about Python
-- 📫 How to reach me: Cr4zi#1238 on discord
+- 📫 How to reach me: Cr4zi#2521 on discord
 - 😄 Pronouns: Ori
 - ⚡ Fun fact: I'm only 13 years old
 
