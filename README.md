@@ -1,10 +1,10 @@
 ### Cr4zi profile info
 
 
-- 🔭 I’m currently working on A.I that can detect animels
-- 🌱 I’m currently learning neural network, algorithms & data structures
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with neural network
+<!-- 🔭 I’m currently working on A.I that can detect animels-->
+- 🌱 I’m currently learning algorithms & data structures
+<!-- 👯 I’m looking to collaborate on nothing -->
+- 🤔 I’m looking for help with algorithms
 - 💬 Ask me about Python
 - 📫 How to reach me: Cr4zi#2521 on discord
 - 😄 Pronouns: Ori
