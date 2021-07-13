@@ -12,4 +12,5 @@
 ![Cr4zi's github stats](https://github-readme-stats.vercel.app/api?username=Cr4zi&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr4zi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### When the Imposter is Sus
+![sus](https://raw.githubusercontent.com/sh0tx420/sh0tx420/main/image0-52.jpg)
