@@ -10,4 +10,4 @@
 <!-- - ⚡ Fun fact: I'm only 14 years old -->
 
 ![Cr4zi's github stats](https://github-readme-stats.vercel.app/api?username=Cr4zi&show_icons=true&theme=dark)
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr4zi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr4zi&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
