@@ -3,7 +3,7 @@
 
 <!-- 🔭 I’m currently working on A.I that can detect animels-->
 - 🌱 I’m currently learning rust <!-- 👯 I’m looking to collaborate on nothing -->
-- 🤔 I’m looking for help with algorithms
+- 🤔 I’m looking for help with rust
 - 💬 Ask me about Python
 - 📫 How to reach me: Cr4zi#2521 on discord
 - 😄 Pronouns: Ori
