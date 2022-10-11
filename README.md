@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank">Ori</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 I'm just a middle school student who likes to program sometimes 」<br>
+    「 I'm a student who likes to program sometimes 」<br>
   </samp>
 </p>
 
