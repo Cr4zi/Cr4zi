@@ -1,1 +1,1 @@
-Just a linux enthusiast
+Just a linux enthusiast, and a tiling window manager fanboy
