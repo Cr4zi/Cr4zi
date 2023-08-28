@@ -1,1 +1,1 @@
-Just a linux enthusiast, and a tiling window manager freak
+Just a high school student
