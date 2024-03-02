@@ -1,1 +1,1 @@
-Just a high school student
+Just a high school and University of Haifa student
